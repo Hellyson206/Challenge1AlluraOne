@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Allura Challenge</title>
+
+		<link rel="stylesheet" href="./css/reset.css">
+		<link rel="stylesheet" href="./css/style.css">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Jost:wght@100;200;300;700&display=swap" rel="stylesheet">
+	</head>
+	
+    <body>
+        <main class="container">
+
+			<h1>Decodificador de textos</h1>
+			<p class="subtitle">Ferramenta para criptografar e descriptografar<br> textos e numeros.</p>
+			<section class="inputData">
+				<textarea placeholder="Digite o texto que deseja..." name id="input" cols="30" rows="10"></textarea>
+				<textarea placeholder="O resultado será exibido aqui" name id="output" cols="30" rows="10"></textarea>
+			</section>
+			<section class="buttons_section">
+				<div class="buttons">
+					<a class="primary_button" id="encrypt" href="#"><img src="./assets/encrypt-icon.png" alt="" class="icon_image">Criptografar</a>
+					<a class="secondary_button" id="decrypt" href="#"><img src="./assets/decrypt-icon.png" alt="" class="icon_image">Descriptografar</a>
+				</div>
+				<div class="buttons2">
+					<a class="copy_button" id="copy" href="#"><img src="./assets/copy-icon.png" alt="" class="icon_image">Copiar</a>
+				</div>
+			</section>	
+
+
+        </main>
+		<script src="./Javascript/script.js"></script>
+		
+		<footer class="copyright">
+			<p>&copy; Copyright Hellyson - Grupo 5 - 2023</p>
+		</footer>
+	
+    </body>
+</html>
