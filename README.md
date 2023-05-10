@@ -3,7 +3,8 @@
 
 Projeto criado para o desafio 1 da Allura + one.
 
-### **Keys** para a criptografia: 
+### **Keys** para a criptografia:
+
 -A letra "a" é convertida para "ai"
 -A letra "e" é convertida para "enter"
 -A letra "i" é convertida para "imes"
