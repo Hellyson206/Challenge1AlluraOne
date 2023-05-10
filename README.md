@@ -1,5 +1,5 @@
 # Allura - One 
-## Challenge 1: Decodificador de textos e numeros.
+## Challenge 1: Decodificador de textos e números.
 
 Projeto criado para o desafio 1 da Allura + one.
 
@@ -11,6 +11,6 @@ Projeto criado para o desafio 1 da Allura + one.
 - A letra "o" é convertida para "ober"
 - A letra "u" é convertida para "ufat"
 
-- O numero "5" é convertido para "993"
-- O numero "7" é convertido para "865"
-- O numero "9" é convertido para "653"
+- O número "5" é convertido para "993"
+- O número "7" é convertido para "865"
+- O número "9" é convertido para "653"
